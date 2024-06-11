@@ -1,2 +1,2 @@
 # videoAudioTranscriber
-Transcribes Hindi Language Video and Audio Files
+Transcribes Video and Audio Files
